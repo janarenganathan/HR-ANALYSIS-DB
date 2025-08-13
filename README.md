@@ -1,5 +1,3 @@
-<img width="694" height="400" alt="Hr dashboard" src="https://github.com/user-attachments/assets/ec82ec5f-67b5-445d-9ac2-e41908e10ebb" />
-
 # HR-ANALYSIS-DB README
 📌 Project Overview
 The HR Analytics Dashboard provides a comprehensive view of workforce metrics, enabling HR professionals to track employee counts, attrition rates, and job satisfaction levels. This dashboard offers actionable insights into attrition trends across departments, age groups, genders, and education fields, helping organizations make data-driven decisions to improve employee retention and engagement.
@@ -79,4 +77,7 @@ HR Managers – to monitor workforce health and reduce attrition.
 
 Business Analysts – to provide actionable workforce recommendations.
 
-Data Enthusiasts – to practice dashboard building and HR analytics in Tableau.
+Data Enthusiasts – to practice dashboard building and HR analytics in Tableau. 
+
+
+<img width="694" height="400" alt="Hr dashboard" src="https://github.com/user-attachments/assets/ec82ec5f-67b5-445d-9ac2-e41908e10ebb" />
